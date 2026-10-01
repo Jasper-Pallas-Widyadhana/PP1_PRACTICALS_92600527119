@@ -10,7 +10,7 @@ void main()
 
 	for(i=1;i<=n;i++ + i++)
 	{
-	printf("%d\t",i);
+		printf("%d\t",i);
 	}
 
 	getch();

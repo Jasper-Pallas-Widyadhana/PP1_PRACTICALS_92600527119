@@ -7,7 +7,7 @@ void main()
 
 	for(i=100;i>=90;i--)
 	{
-	printf("%d\t",i);
+		printf("%d\t",i);
 	}
 
 	getch();
